@@ -2,6 +2,7 @@
 *.exe
 *.out
 *.app
+.idea
 
 # 对象文件
 *.o
