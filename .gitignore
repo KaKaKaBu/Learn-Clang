@@ -38,6 +38,7 @@
 .idea/
 *.swp
 *.swo
+*.xml
 
 # 构建目录
 build/
