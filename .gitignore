@@ -3,6 +3,7 @@
 *.out
 *.app
 .idea
+CMakeLists.txt
 
 # 对象文件
 *.o
