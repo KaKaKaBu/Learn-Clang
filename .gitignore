@@ -4,6 +4,7 @@
 *.app
 .idea
 CMakeLists.txt
+/cmake-build-debug
 
 # 对象文件
 *.o
